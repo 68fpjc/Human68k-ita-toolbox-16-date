@@ -1,6 +1,6 @@
-MANIFEST       ���̃t�@�C��
-README         �܂��ŏ��ɂ��ǂ݉�����
-HUPAIR         HUPAIR�ɂ��ẴC���t�H���[�V����
-CHANGES        date�̃��f���`�F���W�̗���
-date.1         date�̃}�j���A��
-date.x         date���s�t�@�C��
+MANIFEST       このファイル
+README         まず最初にお読み下さい
+HUPAIR         HUPAIRについてのインフォメーション
+CHANGES        dateのモデルチェンジの履歴
+date.1         dateのマニュアル
+date.x         date実行ファイル
