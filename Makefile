@@ -13,8 +13,8 @@ RM = -rm -f
 INCLUDE = ../01-fish/include
 
 DESTDIR   = A:/usr/ita
-BACKUPDIR = B:/date/1.1
-RELEASE_ARCHIVE = DATE11
+BACKUPDIR = B:/date/1.2
+RELEASE_ARCHIVE = DATE12
 RELEASE_FILES = MANIFEST README ../NOTICE CHANGES date.1 date.x
 
 EXTLIB = ../01-fish/lib/ita.l
